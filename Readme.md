@@ -8,6 +8,7 @@ I am a results-driven Full Stack Engineer with over **4 years of experience** bu
 ### 🚀 At a Glance
 * 🎓 **Academic Excellence:** Dean’s List Honor at **FAST-NUCES** (Spring 2024).
 * ☁️ **Cloud Validated:** **AWS Certified Cloud Practitioner**.
+* ⛓️ **Blockchain & Security:** Architected **CrimeChain**, an immutable criminal record system using Quorum & IPFS.
 * 📈 **Performance Focused:** Proven track record of achieving **95+ Lighthouse scores** and reducing load times by **60%**.
 * 🤝 **Client Trusted:** **Upwork Rising Talent** with 100% client satisfaction across 10+ international projects.
 * 📜 **Disciplined:** Certified **Hafiz-e-Quran** (Tanzeem-ul-Madaris), bringing extreme focus to complex problem-solving.
@@ -21,14 +22,18 @@ I am a results-driven Full Stack Engineer with over **4 years of experience** bu
 
 * **Backend:** Node.js, NestJS, Express.js, PostgreSQL, MongoDB, Redis, Prisma.
 * **Frontend:** React.js, Next.js 14, TypeScript, Tailwind CSS, ShadCN UI, Redux Toolkit.
-* **DevOps:** AWS (EC2, S3, Lambda), Docker, CI/CD (GitHub Actions), Nginx.
+* **Blockchain & DevOps:** Quorum (Ethereum), IPFS, AWS (EC2, S3), Docker, GitHub Actions.
 
 ---
 
-### 📂 Featured Production Projects
+### 📂 Featured Projects
+#### ⛓️ [CrimeChain](https://github.com/moizdev2640/CrimeChain) – Blockchain Criminal Record Management (FYP)
+* Developed an immutable record system using **Quorum** and **IPFS** for zero-tamper data storage.
+* Implemented **AES-256-GCM encryption** and containerized the ecosystem via **Docker Compose**.
+
 #### 🤖 [BotSales](https://robot-selling.vercel.app/) – B2B Robot Marketplace
-* Built a tiered marketplace with **Stripe integration** and a 3-role access system.
-* Architected a **14-parameter dynamic search system** using Next.js and PostgreSQL.
+* Built a tiered marketplace with **Stripe integration** and a 14-parameter dynamic search system.
+* Optimized database queries in **PostgreSQL** to handle complex relational lead-tracking logic.
 
 #### 🎬 [WatchNext 2.0](https://www.watchnext.co/) – Media Discovery SaaS
 * Serving **100+ monthly visitors** with 98+ Lighthouse Performance scores.
@@ -58,8 +63,5 @@ I am a results-driven Full Stack Engineer with over **4 years of experience** bu
 </a>
 <a href="mailto:moiz.abdul.2640@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/moizdev2640">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
