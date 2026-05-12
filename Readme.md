@@ -38,8 +38,7 @@ I am a results-driven Full Stack Engineer with over **4 years of experience** bu
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=moizdev2640&show_icons=true&theme=radical&count_private=true" alt="Moiz Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moizdev2640&layout=compact&theme=radical&hide_langs=html,css" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=moizdev2640&show_icons=true" alt="Moiz Stats" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moizdev2640&layout=compact&theme=radical&hide_langs=html,css" alt="Top Langs" />
 </p>
 
 ---
