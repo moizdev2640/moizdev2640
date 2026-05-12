@@ -36,9 +36,16 @@ I am a results-driven Full Stack Engineer with over **4 years of experience** bu
 
 ---
 
-### 📊 Activity & Contributions
+### 📊 Engineering Metrics
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=moizdev2640&show_icons=true&theme=radical&count_private=true" alt="Moiz Stats" />
+  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Projects-10%2B%20SaaS-green?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Lighthouse-95%2B-orange?style=for-the-badge&logo=googlechrome" />
+  <img src="https://img.shields.io/badge/Users-10K%2B-red?style=for-the-badge&logo=users" />
+</p>
+
+### 🔥 Contribution Streak
+<p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=moizdev2640&theme=radical" alt="GitHub Streak" />
 </p>
 
