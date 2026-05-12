@@ -27,7 +27,7 @@ I am a results-driven Full Stack Engineer with over **4 years of experience** bu
 ---
 
 ### 📂 Featured Projects
-#### ⛓️ [CrimeChain](https://github.com/moizdev2640/CrimeChain) – Blockchain Criminal Record Management (FYP)
+#### ⛓️ [CrimeChain](https://github.com/Minahilasif12/FYP) – Blockchain Criminal Record Management (FYP)
 * Developed an immutable record system using **Quorum** and **IPFS** for zero-tamper data storage.
 * Implemented **AES-256-GCM encryption** and containerized the ecosystem via **Docker Compose**.
 
