@@ -26,11 +26,11 @@ I am a results-driven Full Stack Engineer with over **4 years of experience** bu
 ---
 
 ### 📂 Featured Production Projects
-#### 🤖 [BotSales](https://github.com/moizdev2640) – B2B Robot Marketplace
+#### 🤖 [BotSales](https://robot-selling.vercel.app/) – B2B Robot Marketplace
 * Built a tiered marketplace with **Stripe integration** and a 3-role access system.
 * Architected a **14-parameter dynamic search system** using Next.js and PostgreSQL.
 
-#### 🎬 [WatchNext 2.0](https://github.com/moizdev2640) – Media Discovery SaaS
+#### 🎬 [WatchNext 2.0](https://www.watchnext.co/) – Media Discovery SaaS
 * Serving **100+ monthly visitors** with 98+ Lighthouse Performance scores.
 * Integrated **Google OAuth** and Supabase for secure, production-ready authentication.
 
@@ -38,7 +38,7 @@ I am a results-driven Full Stack Engineer with over **4 years of experience** bu
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=moizdev2640&show_icons=true&theme=radical" alt="Moiz Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=moizdev2640&show_icons=true&theme=radical&count_private=true" alt="Moiz Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moizdev2640&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
